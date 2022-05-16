@@ -11,5 +11,5 @@ I'm here to help the world learn to code, do great things with code , python lov
 
 #### Github Stats 📊
 
-[![Tifedami's github stats](https://github-readme-stats.vercel.app/api?username=tifedami)(https://github.com/anuraghazra/github-readme-stats
+[![Tifedami's github stats](https://github-readme-stats.vercel.app/api?username=tifedami)](https://github.com/anuraghazra/github-readme-stats)
 
